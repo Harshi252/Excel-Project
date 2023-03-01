@@ -1,10 +1,12 @@
 # Excel-Project - Vrinda Store Data Anlysis 
+In this project, we have done data cleaning, processing, analysis and dashboard creation all in Excel. Complete data analytics project for data analyst in Excel.
 
 Source Data - https://github.com/rishabhnmishra/Excel-Vrinda-Store-Data-Analysis-/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx
 
 Excel Dashboard:
-![image](https://user-images.githubusercontent.com/106535805/222220732-99584124-c1cb-44b5-8443-c62a15b0def9.png)
+![image](https://user-images.githubusercontent.com/106535805/222220937-9caf3a13-46a9-4c6e-86da-b7e95c47f869.png)
 
+Dashboard Answering questions like:-
 
 1. Compare the sales and orders using single chart
 2. Which month got the highest sales and orders?
